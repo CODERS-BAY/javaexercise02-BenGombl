@@ -33,7 +33,7 @@ public class JavaExercise02 {
                     }
                     System.out.print(c + ") > (");
                     //hier den Ausdruck zum überprüfen ändern!!!!!------------------------------------------------------
-                    System.out.println((!a||b) + ")");
+                    System.out.println((!(a^b)||b) + ")");
 
                     System.out.println("---------------------------------");
                 }
