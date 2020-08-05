@@ -6,7 +6,7 @@ public class JavaExercise02 {
         c = true;
 
 
-        System.out.println("   A   -   B   -   C   >  statement");
+        System.out.println("   A   -   B   -   C   >  Statement");
         System.out.println("---------------------------------");
 
         do {
